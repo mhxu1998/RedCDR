@@ -11,11 +11,11 @@ This project was run in a conda virtual environment on Ubuntu 16.04 with CUDA 10
 + torch==1.8.0
 + torch-cluster==1.5.9
 + torch-geometric==2.0.3
-+ torch-scatter=2.0.6
-+ torch-sparse=0.6.10
-+ rakit=2020.09.1.0
-+ deepchem=2.5.0
-+ pubchempy=1.0.4
++ torch-scatter==2.0.6
++ torch-sparse==0.6.10
++ rakit==2020.09.1.0
++ deepchem==2.5.0
++ pubchempy==1.0.4
 
 Data preparation
 ----
