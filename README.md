@@ -1,5 +1,7 @@
 # RedCDR
-This is the source code for ***RedCDR: Dual Relation Distillation for Cancer Drug Response Prediction***.
+Source code for ***[RedCDR: Dual Relation Distillation for Cancer Drug Response Prediction]*** published in IEEE/ACM TCBB 2024.
+
+[RedCDR: Dual Relation Distillation for Cancer Drug Response Prediction]:https://ieeexplore.ieee.org/document/10536635
 
 ![image](pic/framework.png)
 
