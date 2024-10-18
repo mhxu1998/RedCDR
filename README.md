@@ -34,3 +34,18 @@ This project is built with the reference to the following open-source projects: 
 
 [GraphCDR]:https://github.com/BioMedicalBigDataMiningLab/GraphCDR
 [NIHGCN]:https://github.com/weiba/NIHGCN
+
+Citation
+----
+```
+@article{xu2024redcdr,
+  title={RedCDR: Dual Relation Distillation for Cancer Drug Response Prediction},
+  author={Xu, Muhao and Zhu, Zhenfeng and Zhao, Yawei and He, Kunlun and Huang, Qinghua and Zhao, Yao},
+  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  year={2024},
+  volume={21},
+  number={5},
+  pages={1468-1479},
+  doi={10.1109/TCBB.2024.3404262}
+}
+```
